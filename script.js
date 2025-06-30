@@ -15,8 +15,7 @@ const friends = ['Mango', 'Poly', 'Kiwi', 'Ajax']
     console.log(friends.join(", "));
 
 console.log("2");
-// Працюємо з колекцією карток в trello.
-//  Метод splice() (можна використати інші методи)
+
 
 const cards = [
     'Карточка-1',
